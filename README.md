@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @MKPasha
-- 👀 I’m interested in data analyst role
-- 🌱 I’m currently learning sql and power bi
+- 👀 A Data Analyst
+- 🌱 Expert in Data Visualization with Power BI
+-    I use PostgreSQL to analyse data
 - 💞️ I’m looking to collaborate with you
 - 📫 How to reach me pashaamurtaza2@gmail.com
 
