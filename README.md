@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MKPasha
-- 👀 Data Science is one of my interests
-- 🌱 
+- 👀 Data Science Enthusiast
+- 🌱 Skilled in SQL Python and Power BI
 - 💞️ I’m looking to collaborate with you
 - 📫 How to reach me pashaamurtaza2@gmail.com
 
