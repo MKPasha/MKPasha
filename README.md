@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MKPasha
-- 👀 Data Science Enthusiast
-- 🌱 Skilled in SQL Python and Power BI
+- 👀 Data Scientist
+- 🌱 Skilled in Excel ChatGPT PromptEngineering SQL Python and Power BI
 - 💞️ I’m looking to collaborate with you
 - 📫 How to reach me pashaamurtaza2@gmail.com
 
